@@ -1,6 +1,7 @@
 ---
 name: gws
 description: Google Workspace CLI (official Google release) for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and every Workspace API. Includes native MCP server mode for AI agents. Use when you need to manage Google Workspace services via CLI or expose them as MCP tools.
+license: MIT
 homepage: https://github.com/googleworkspace/cli
 metadata:
   {
